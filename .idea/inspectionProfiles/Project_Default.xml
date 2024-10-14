@@ -1,0 +1,92 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="106" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.12" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="36">
+            <item index="0" class="java.lang.String" itemvalue="pandas" />
+            <item index="1" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="2" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="3" class="java.lang.String" itemvalue="pillow" />
+            <item index="4" class="java.lang.String" itemvalue="numpy" />
+            <item index="5" class="java.lang.String" itemvalue="sklearn" />
+            <item index="6" class="java.lang.String" itemvalue="PIL" />
+            <item index="7" class="java.lang.String" itemvalue="dlib" />
+            <item index="8" class="java.lang.String" itemvalue="tqdm" />
+            <item index="9" class="java.lang.String" itemvalue="scipy" />
+            <item index="10" class="java.lang.String" itemvalue="h5py" />
+            <item index="11" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="12" class="java.lang.String" itemvalue="torch" />
+            <item index="13" class="java.lang.String" itemvalue="torchvision" />
+            <item index="14" class="java.lang.String" itemvalue="opencv_python" />
+            <item index="15" class="java.lang.String" itemvalue="Pillow" />
+            <item index="16" class="java.lang.String" itemvalue="thop" />
+            <item index="17" class="java.lang.String" itemvalue="mysql" />
+            <item index="18" class="java.lang.String" itemvalue="cherry" />
+            <item index="19" class="java.lang.String" itemvalue="jieba" />
+            <item index="20" class="java.lang.String" itemvalue="fasttext" />
+            <item index="21" class="java.lang.String" itemvalue="flask-limiter" />
+            <item index="22" class="java.lang.String" itemvalue="requests-html" />
+            <item index="23" class="java.lang.String" itemvalue="MechanicalSoup" />
+            <item index="24" class="java.lang.String" itemvalue="httpx" />
+            <item index="25" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="26" class="java.lang.String" itemvalue="pyotp" />
+            <item index="27" class="java.lang.String" itemvalue="filetype" />
+            <item index="28" class="java.lang.String" itemvalue="requests" />
+            <item index="29" class="java.lang.String" itemvalue="bs4" />
+            <item index="30" class="java.lang.String" itemvalue="openai" />
+            <item index="31" class="java.lang.String" itemvalue="flashtext" />
+            <item index="32" class="java.lang.String" itemvalue="pickle" />
+            <item index="33" class="java.lang.String" itemvalue="scikit-image" />
+            <item index="34" class="java.lang.String" itemvalue="creme" />
+            <item index="35" class="java.lang.String" itemvalue="np_utils" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E225" />
+          <option value="E501" />
+          <option value="E231" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N806" />
+          <option value="N813" />
+          <option value="N802" />
+          <option value="N803" />
+          <option value="N814" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="facenet.Facenet.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
